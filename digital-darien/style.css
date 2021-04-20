@@ -67,8 +67,9 @@ body {
   text-decoration: none;
 }
 
-.nav-link--color {
+.nav-link--active {
   background-color: red;
+  border-radius: 2em;
 }
 
 /* Media Queries */
