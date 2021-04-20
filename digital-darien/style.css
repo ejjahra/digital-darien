@@ -67,6 +67,10 @@ body {
   text-decoration: none;
 }
 
+.nav-pills {
+  background-color: red;
+}
+
 /* Media Queries */
 
 @media only screen and (max-width: 1200px) {
