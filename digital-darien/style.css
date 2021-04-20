@@ -68,8 +68,8 @@ body {
 }
 
 .nav-link--active {
-  background-color: red;
-  border-radius: 1em;
+  background-color: #779693;
+  border-radius: .25rem;
 }
 
 /* Media Queries */
