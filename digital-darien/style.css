@@ -101,6 +101,10 @@ body {
   .margin-left-1 {
     margin-left: 1em;
   }
+
+  .font-size-adjust {
+    font-size: 1em;
+  }
 }
 
 @media only screen and (max-width: 960px) {
