@@ -1,0 +1,108 @@
+
+body {
+  background-color: #d0cdc9;
+}
+
+.font-continuo {
+  font-family: continuo, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.font-futura {
+  font-family: futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.heading-background-opaque {
+  background-color: rgba(159, 64, 64, 61%);
+}
+
+.heading-background {
+  background-color: rgb(159, 64, 64);
+}
+
+.margin-top-10 {
+  margin-top: 10em;
+}
+
+.margin-right-3 {
+  margin-right: 3em;
+}
+
+.padding-top-10 {
+  padding-top: 10em;
+}
+
+.padding-left-10 {
+  padding-left: 10em;
+}
+
+.object-fit--cover {
+  object-fit: cover;
+}
+
+.bg-tan {
+  background-color: #d0cdc9;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.hidden-heading {
+  display: none;
+}
+
+.hidden-brand {
+  display: none;
+}
+
+.width-80 {
+  width: 80%;
+}
+
+.text-decoration--none {
+  text-decoration: none;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 1200px) {
+  .margin-right-3 {
+    margin-right: 0em;
+  }
+
+  .hidden-col--1270 {
+    display: none;
+  }
+
+  .margin-left-1 {
+    margin-left: 1em;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .hidden-image {
+    display: none;
+  }
+  .hidden-col {
+    display: none;
+  }
+
+  .hidden-heading {
+    display: block;
+  }
+
+  .margin-left-1 {
+    margin-left: 0em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .hidden-brand {
+    display: block;
+  }
+}
