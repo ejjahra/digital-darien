@@ -76,8 +76,13 @@ body {
 }
 
 .sub-nav-link {
+  color: #5B7670;
+}
+
+.sub-nav-link:hover {
   color: #779693;
 }
+
 /* Media Queries */
 
 @media only screen and (max-width: 1200px) {
