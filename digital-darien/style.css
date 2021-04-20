@@ -83,10 +83,6 @@ body {
   color: #779693;
 }
 
-.font-size-14 {
-  font-size: .75rem;
-}
-
 /* Media Queries */
 
 @media only screen and (max-width: 1200px) {
