@@ -69,6 +69,9 @@ body {
 
 .nav-link--active {
   background-color: #779693;
+}
+
+.border-radius-sm {
   border-radius: .25rem;
 }
 
