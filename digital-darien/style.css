@@ -75,6 +75,9 @@ body {
   border-radius: .25rem;
 }
 
+.sub-nav-link {
+  color: #779693;
+}
 /* Media Queries */
 
 @media only screen and (max-width: 1200px) {
