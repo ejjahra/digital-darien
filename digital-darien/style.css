@@ -87,6 +87,10 @@ body {
   color: #779693;
 }
 
+.font-size-1 {
+  font-size: 1em;
+}
+
 /* Media Queries */
 
 @media only screen and (max-width: 1200px) {
@@ -102,8 +106,8 @@ body {
     margin-left: 1em;
   }
 
-  .font-size-adjust {
-    font-size: 1em;
+  .font-size-1 {
+    font-size: 0.75em;
   }
 }
 
