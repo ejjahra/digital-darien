@@ -115,7 +115,7 @@ body {
   }
 
   .border-at-md {
-    border: 2px solid white;
+    border: 5px solid white;
   }
 }
 
@@ -137,6 +137,10 @@ body {
 
   .font-size-sm {
     font-size: 1rem;
+  }
+
+  .border-at-md {
+    border: none;
   }
 }
 
