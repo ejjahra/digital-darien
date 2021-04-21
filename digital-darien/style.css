@@ -113,6 +113,10 @@ body {
   .font-size-sm {
     font-size: 0.8rem;
   }
+
+  .border-at-md {
+    border: 2px solid white;
+  }
 }
 
 @media only screen and (max-width: 960px) {
