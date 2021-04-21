@@ -137,4 +137,8 @@ body {
   .hidden-brand {
     display: block;
   }
+
+  .font-size-sm {
+    font-size: 0.8rem;
+  }
 }
